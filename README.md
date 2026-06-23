@@ -87,24 +87,15 @@ Features:
 
 ## 🏗 System Architecture
 
-         Shrimp Pond
-              |
-    --------------------
-    |                  |
 
-Environmental Hydrophone
-Sensors Sensor
-| |
------------ESP32-----------
-|
-MQTT/Cloud
-|
-------------------------
-| |
-Mobile Application AI Model
-| |
--------- Farmer --------
 
+<p align="center">
+  <img src="images/architecture.png" width="250">
+</p>
+
+<h3 align="center">
+Smart AI-Based Shrimp Farm Monitoring System
+</h3>
 
 
 ---
@@ -151,7 +142,7 @@ Mobile Application AI Model
 
 
 Eluvis-ShrimpSense/
-
+```
 │
 ├── firmware/
 │ ├── ESP32 Code
@@ -162,21 +153,11 @@ Eluvis-ShrimpSense/
 │ ├── Flutter Application
 │ └── UI Components
 │
-├── AI/
-│ ├── ML Models
-│ ├── Training Scripts
-│ └── Dataset Processing
-│
-├── hardware/
-│ ├── Schematics
-│ ├── PCB Files
-│ └── Mechanical Design
-│
 ├── images/
 │
 └── README.md
 
-
+```
 
 ---
 
