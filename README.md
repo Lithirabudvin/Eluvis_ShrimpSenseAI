@@ -90,11 +90,11 @@ Features:
 
 
 <p align="center">
-  <img src="images/architecture.jpeg" width="250">
+  <img src="images/architecture.jpeg" width="500">
 </p>
 
 <h3 align="center">
-Smart AI-Based Shrimp Farm Monitoring System
+System Architecture
 </h3>
 
 
